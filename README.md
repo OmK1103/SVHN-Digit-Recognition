@@ -52,7 +52,7 @@ Final loss value : less than 0.1
 Accuracy on the test set : 79.66%
 
 
-How to run this on my machine
+How to run this on my machine?
 
 
 Read the images whose digits are to be recognised using the cv2.imread() function.
